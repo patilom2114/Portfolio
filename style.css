@@ -430,6 +430,8 @@ footer {
 
 footer p {
   text-align: center;
+  margin-top: 1rem;
+  padding-bottom: 2rem;
 }
 .custom-link {
   color: inherit; /* Makes the link color the same as the surrounding text */
